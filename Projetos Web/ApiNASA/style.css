@@ -1,0 +1,47 @@
+ body{
+    text-align: center;
+    color: white;
+    background-color: black;
+    background-image: url(src/fundo.jpg);
+    background-repeat: repeat-y;
+
+} 
+#botao{
+    border-radius: 2rem;
+    border: 1px solid grey;
+    box-shadow: 2px 2px grey;
+    height: 40px;
+}
+
+#nasa{
+    width: 100px;
+}
+
+#resultado img{
+    height: 50%;
+    width: 80%;
+    border-radius: 2rem;
+}
+#resultadotxt{
+    text-align: center;
+    width: 50%;
+    border-radius: 2rem;
+    margin-left: 25%;
+}
+
+#nasa:hover{
+    width: 110px;
+}
+
+#img{
+    margin-top: 50px;
+    height: 150px;
+    width: 120px;
+}
+
+#img:hover{
+    margin-top: 50px;
+    height: 160px;
+    width: 130px;
+}
+
