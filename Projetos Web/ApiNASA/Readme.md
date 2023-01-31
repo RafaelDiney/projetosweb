@@ -4,7 +4,7 @@ A NASA disponibiliza algumas API's em seu site oficial, entre elas está APOD(Im
 ela mostra uma imagem diferente para cada dia que é acessada.
 Nesse projeto foi realizado o consumo dessa API com JavaScript puro, basicamente tem uma página e ao clicar no
 logo da nasa é realizado uma requisição na API APOD que retorna a imagem de hoje e sua descrição, junto com a 
-imagem a página começa a tocar uma música para curtir enquanto vê a imagem e lê sua descrição, para pausar a música,
+imagem a página começa a reproduzir uma música para curtir enquanto o usuário analisa a imagem e sua descrição, para pausar a música,
 basta clicar no faceicone no fincal da página.
 
 ![image](https://user-images.githubusercontent.com/91790222/215892655-c2a1a675-f249-4082-a803-769ffbc1da6b.png)
