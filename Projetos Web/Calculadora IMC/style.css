@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+    margin-left: 40%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    background-color: rgb(0, 0, 0);
+    
+}
+header{
+    margin-top: 100px;
+    margin-bottom: 2px;
+    align-items: center;
+    background-color: rgba(141, 195, 226, 0.6);
+    border-style: groove;
+    width: 400px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+footer img {
+    width: 50px;
+    text-align: center;
+    margin-left: 33%;
+    padding: 10px;
+    padding-bottom: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+footer p em{
+    width: 20px;
+    color: rgb(76, 88, 88);
+    padding: 10px;
+    margin-left: 30%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+main{
+    margin-top: 2px;
+    align-items: center;
+    background-color: rgba(141, 195, 226, 0.6);
+    border-style: groove;
+    width: 400px;
+    border-radius: 12px;
+
+}
+
+#entrada input{
+    background-color: #030303;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+    text-align: center;
+    margin: 2px;
+   
+}
+
+#calcular{
+    background-color: #030303;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+    text-align: center;
+    width: 80%;
+    height: 50px;
+    margin: 2px;
+}
+
+#resultado{
+    background-color: #030303;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: none; 
+    border-radius: 12px;
+    text-align: center;
+    width: 64%;
+    height: 100px;
+    margin-bottom: 10px;
+    background-image: url(img/Iconic.png);
+}
